@@ -1,0 +1,41 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.container{
+  width: 500px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: gray;
+margin: auto;
+margin-top: 50px;
+text-align: center;
+}
+.heading{
+  font-size: 20px;
+  font-weight: 600;
+
+}
+.inputfield{
+  width: 70%;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 3px;
+}
+.copy{
+  width:70px;
+  height: 32px;
+  border-radius: 15px;
+  background-color: blue;
+}
+.containertwo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+.range{
+
+} */
